@@ -1,0 +1,22 @@
+{
+    "settings": {
+        "notifications": {
+            "position": "topRight",
+            "backdrop": true,
+            "backdropColor": "#3e4346",
+            "timeoutReset": true
+        },
+        "addons": {
+            "extra": true
+        },
+        "userCounter": {
+            "enabled": true,
+            "enableTime": 1702788939257,
+            "lastSubmission": 1703632751179
+        }
+    },
+    "currentVersionInfo": {
+        "version": "1.4.14",
+        "hasShownChangelog": true
+    }
+}
